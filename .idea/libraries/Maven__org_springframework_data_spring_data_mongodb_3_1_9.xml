@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.springframework.data:spring-data-mongodb:3.1.9">
+    <CLASSES>
+      <root url="jar://D:/mevan/apache-maven-3.8.4/lib/org/springframework/data/spring-data-mongodb/3.1.9/spring-data-mongodb-3.1.9.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/mevan/apache-maven-3.8.4/lib/org/springframework/data/spring-data-mongodb/3.1.9/spring-data-mongodb-3.1.9-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/mevan/apache-maven-3.8.4/lib/org/springframework/data/spring-data-mongodb/3.1.9/spring-data-mongodb-3.1.9-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

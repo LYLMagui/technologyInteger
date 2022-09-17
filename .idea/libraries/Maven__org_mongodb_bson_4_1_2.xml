@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.mongodb:bson:4.1.2">
+    <CLASSES>
+      <root url="jar://D:/mevan/apache-maven-3.8.4/lib/org/mongodb/bson/4.1.2/bson-4.1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/mevan/apache-maven-3.8.4/lib/org/mongodb/bson/4.1.2/bson-4.1.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/mevan/apache-maven-3.8.4/lib/org/mongodb/bson/4.1.2/bson-4.1.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

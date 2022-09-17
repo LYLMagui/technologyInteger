@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springboot_02_knife4j" />
+        <module name="springboot_01_swagger" />
+        <module name="springboot_03_hutool" />
+        <module name="springboot_05_mongodb" />
+        <module name="springboot_04_redis" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="8">
+      <module name="springboot_01_swagger" target="1.8" />
+      <module name="springboot_02_knife4j" target="1.8" />
+      <module name="springboot_03_hutool" target="1.8" />
+      <module name="springboot_04_redis" target="1.8" />
+      <module name="springboot_05_mongodb" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="springboot_01_swagger" options="-parameters" />
+      <module name="springboot_02_knife4j" options="-parameters" />
+      <module name="springboot_03_hutool" options="-parameters" />
+      <module name="springboot_04_redis" options="-parameters" />
+      <module name="springboot_05_mongodb" options="-parameters" />
+    </option>
+  </component>
+</project>

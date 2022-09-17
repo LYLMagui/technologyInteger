@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/springboot_swagger/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_knife4j/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_01_swagger/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_02_knife4j/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_03_hutool/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_04_redis/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_05_mongodb/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>
